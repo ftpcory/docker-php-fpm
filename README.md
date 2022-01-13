@@ -1,4 +1,4 @@
-# docker-php-apache
+# docker-php-fpm
 Docker container for running php on fpm
 
 ## Tags
