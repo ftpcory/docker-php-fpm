@@ -1,5 +1,5 @@
 # docker-php-fpm
-Docker container for running php on fpm
+Docker container for running php fpm
 
 ## Tags
 * [7.4.x-dev](https://github.com/ftpcory/docker-php-fpm/tree/7.4.x-dev)
